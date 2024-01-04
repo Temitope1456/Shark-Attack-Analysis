@@ -19,8 +19,6 @@ We are to find out more informations about the attacks.
 you see? 
 2. Which countries report the most shark attacks? Within those countries, which areas and 
 locations seem to be the most dangerous? 
-3. The next questions will require you to practice your data cleaning skills. The data is pretty 
-raw, and will need some work before you analyze it... 
 4. What body parts are most often injured? (hint: you'll need to perform text analysis on the 
 Injury column) 
 5. Are shark attacks more common during certain parts of the day (again, the Time data isn't 
