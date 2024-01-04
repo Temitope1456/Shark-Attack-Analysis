@@ -1,4 +1,6 @@
 # Shark-Attack-Analysis
+![6](https://github.com/Temitope1456/Shark-Attack-Analysis/assets/26870543/1a73c3b8-89e4-4dac-bdb1-c9e1c1b8f26c)
+
 ## Table of Contents
 - [INTRODUCTION](#INTRODUCTION)
 - [OBJECTIVES](#OBJECTIVES)
